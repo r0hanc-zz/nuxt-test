@@ -1,0 +1,254 @@
+[
+  {
+    "balance": "$1,336.16",
+    "firstName": "Wells",
+    "lastName": "Ortiz",
+    "gender": "male",
+    "age": 20,
+    "role": "IDETICA",
+    "phone": "+1 (947) 534-3529",
+    "address": {
+      "street": "500 Herkimer Court",
+      "city": "Warsaw",
+      "state": "Puerto Rico",
+      "pin": 290465
+    },
+    "about": "Nostrud exercitation consequat id magna ullamco fugiat elit occaecat voluptate enim deserunt. Ex adipisicing culpa ex laboris pariatur. Culpa ut irure exercitation laboris ex elit id magna et. Minim ex eu elit eiusmod nisi laboris aliquip non nostrud.\r\n",
+    "email": "wellsortiz@idetica.com",
+    "registered": "2017-01-21T03:45:00 -06:-30"
+  },
+  {
+    "balance": "$2,774.72",
+    "firstName": "Goodwin",
+    "lastName": "Pierce",
+    "gender": "male",
+    "age": 28,
+    "role": "ARCTIQ",
+    "phone": "+1 (881) 512-2123",
+    "address": {
+      "street": "926 Nassau Avenue",
+      "city": "Fedora",
+      "state": "Alabama",
+      "pin": 270639
+    },
+    "about": "Amet non ut ullamco sit sit in enim esse proident nostrud ad aliquip. Ex amet occaecat non occaecat do aliquip fugiat esse irure. Fugiat irure reprehenderit do elit. Proident nulla do eiusmod Lorem adipisicing magna occaecat irure. Aliquip Lorem et elit eu ut culpa veniam sunt.\r\n",
+    "email": "goodwinpierce@arctiq.com",
+    "registered": "2019-10-22T10:42:14 -06:-30"
+  },
+  {
+    "balance": "$3,968.38",
+    "firstName": "Tricia",
+    "lastName": "Oneill",
+    "gender": "female",
+    "age": 36,
+    "role": "STEELFAB",
+    "phone": "+1 (858) 489-3912",
+    "address": {
+      "street": "569 Cooke Court",
+      "city": "Elfrida",
+      "state": "New Hampshire",
+      "pin": 25225
+    },
+    "about": "Eu ullamco ad elit Lorem Lorem laboris sint nulla Lorem veniam est elit magna. Reprehenderit Lorem nisi elit commodo tempor tempor duis. Velit veniam anim amet officia quis quis ex in ex incididunt tempor aute do aute.\r\n",
+    "email": "triciaoneill@steelfab.com",
+    "registered": "2017-03-25T01:03:04 -06:-30"
+  },
+  {
+    "balance": "$1,001.15",
+    "firstName": "Jennifer",
+    "lastName": "Stark",
+    "gender": "female",
+    "age": 35,
+    "role": "INSURESYS",
+    "phone": "+1 (844) 587-3755",
+    "address": {
+      "street": "792 Fayette Street",
+      "city": "Dunlo",
+      "state": "Florida",
+      "pin": 145004
+    },
+    "about": "Sint minim culpa proident officia culpa occaecat sint enim. Occaecat irure deserunt aliqua reprehenderit. Mollit sit adipisicing sunt deserunt officia ut aliqua. Commodo enim aliquip Lorem labore culpa ad reprehenderit esse officia. Elit nulla est non eiusmod aliquip magna mollit mollit sint ut nisi exercitation consectetur cupidatat. Nisi incididunt labore voluptate Lorem reprehenderit officia. Sint irure veniam proident labore veniam dolore.\r\n",
+    "email": "jenniferstark@insuresys.com",
+    "registered": "2019-08-18T04:04:52 -06:-30"
+  },
+  {
+    "balance": "$1,380.12",
+    "firstName": "Anderson",
+    "lastName": "Steele",
+    "gender": "male",
+    "age": 39,
+    "role": "KROG",
+    "phone": "+1 (936) 518-3423",
+    "address": {
+      "street": "336 Newkirk Avenue",
+      "city": "Twilight",
+      "state": "Idaho",
+      "pin": 306736
+    },
+    "about": "Fugiat veniam ex duis elit amet anim ipsum est enim proident qui. Aute deserunt nostrud consectetur consectetur duis aliquip laboris. Consectetur qui consequat tempor nulla labore id nisi. Lorem dolore ipsum nulla consectetur in irure Lorem ullamco. Labore adipisicing amet minim excepteur non. Ullamco cillum non consectetur quis excepteur incididunt. In elit est et ut laborum aliquip excepteur exercitation ea nisi in aliquip.\r\n",
+    "email": "andersonsteele@krog.com",
+    "registered": "2018-03-08T12:12:26 -06:-30"
+  },
+  {
+    "balance": "$1,713.04",
+    "firstName": "Travis",
+    "lastName": "Owens",
+    "gender": "male",
+    "age": 39,
+    "role": "AFFLUEX",
+    "phone": "+1 (935) 451-2330",
+    "address": {
+      "street": "122 Troutman Street",
+      "city": "Fannett",
+      "state": "Nevada",
+      "pin": 76740
+    },
+    "about": "Occaecat id labore dolor sit. Reprehenderit id mollit sunt dolore aliquip irure culpa laborum anim culpa. Adipisicing fugiat sunt ut occaecat proident duis cupidatat pariatur aute duis qui est est. Labore eiusmod culpa in ut labore reprehenderit adipisicing.\r\n",
+    "email": "travisowens@affluex.com",
+    "registered": "2018-11-21T08:13:07 -06:-30"
+  },
+  {
+    "balance": "$2,891.83",
+    "firstName": "Lila",
+    "lastName": "Mcclure",
+    "gender": "female",
+    "age": 32,
+    "role": "NURPLEX",
+    "phone": "+1 (806) 442-3814",
+    "address": {
+      "street": "942 Suydam Street",
+      "city": "Jenkinsville",
+      "state": "New Jersey",
+      "pin": 398519
+    },
+    "about": "Ad Lorem in in eiusmod voluptate voluptate do commodo sint consectetur reprehenderit labore laboris id. Ea laborum tempor eu dolor ex nulla. Reprehenderit et do ex ex ut id consectetur commodo et ad adipisicing minim. Eu et velit esse nisi. Quis irure cupidatat pariatur cupidatat quis labore Lorem enim in magna aute in ipsum. Labore excepteur ipsum elit Lorem nisi sunt non culpa.\r\n",
+    "email": "lilamcclure@nurplex.com",
+    "registered": "2019-04-27T05:22:19 -06:-30"
+  },
+  {
+    "balance": "$2,182.77",
+    "firstName": "Adkins",
+    "lastName": "Goff",
+    "gender": "male",
+    "age": 29,
+    "role": "AUTOMON",
+    "phone": "+1 (992) 544-3508",
+    "address": {
+      "street": "320 Victor Road",
+      "city": "Gallina",
+      "state": "Vermont",
+      "pin": 271709
+    },
+    "about": "Dolore excepteur id labore sint sint proident quis est. Irure elit qui et cillum in labore nisi adipisicing sint dolor magna. Aute non qui ea irure eiusmod ullamco anim. Labore minim exercitation velit adipisicing minim amet excepteur velit commodo occaecat veniam quis. Laboris ea nulla consectetur Lorem adipisicing ut qui incididunt cupidatat non. Reprehenderit do commodo officia in fugiat ullamco aliqua adipisicing ea Lorem tempor officia ut.\r\n",
+    "email": "adkinsgoff@automon.com",
+    "registered": "2016-02-24T05:48:27 -06:-30"
+  },
+  {
+    "balance": "$1,569.22",
+    "firstName": "Tami",
+    "lastName": "Cannon",
+    "gender": "female",
+    "age": 28,
+    "role": "CUJO",
+    "phone": "+1 (922) 507-3488",
+    "address": {
+      "street": "898 Linwood Street",
+      "city": "Bynum",
+      "state": "Virginia",
+      "pin": 129063
+    },
+    "about": "Aliquip ea pariatur aute ullamco dolor anim nulla laboris. Magna laborum laboris quis sint ut ipsum pariatur commodo amet fugiat mollit veniam. Ipsum dolor proident occaecat ad deserunt incididunt culpa.\r\n",
+    "email": "tamicannon@cujo.com",
+    "registered": "2018-05-11T11:05:32 -06:-30"
+  },
+  {
+    "balance": "$1,562.72",
+    "firstName": "Duffy",
+    "lastName": "Anderson",
+    "gender": "male",
+    "age": 21,
+    "role": "MAGNEATO",
+    "phone": "+1 (905) 584-3794",
+    "address": {
+      "street": "294 Euclid Avenue",
+      "city": "Cuylerville",
+      "state": "Utah",
+      "pin": 270578
+    },
+    "about": "Consequat magna cupidatat cupidatat aliquip. Nisi in irure non mollit. Non duis velit ex ea in. Consectetur tempor velit minim magna minim irure ut cillum laboris excepteur. Velit tempor adipisicing laboris magna mollit Lorem aliquip cupidatat sit incididunt adipisicing ipsum.\r\n",
+    "email": "duffyanderson@magneato.com",
+    "registered": "2015-02-13T11:06:02 -06:-30"
+  },
+  {
+    "balance": "$1,455.84",
+    "firstName": "Karen",
+    "lastName": "Ochoa",
+    "gender": "female",
+    "age": 23,
+    "role": "KONGLE",
+    "phone": "+1 (900) 575-3647",
+    "address": {
+      "street": "317 Throop Avenue",
+      "city": "Convent",
+      "state": "Nebraska",
+      "pin": 339758
+    },
+    "about": "Excepteur ipsum consequat aute aute incididunt culpa do minim enim qui quis. Ipsum minim ullamco nostrud est ad sit voluptate irure mollit voluptate sint fugiat. Ad magna nisi proident ex. Est quis aliqua ut do nisi reprehenderit est qui consequat. Ut est culpa adipisicing nisi irure adipisicing irure sit exercitation eiusmod veniam. Do aliqua dolor culpa fugiat officia sit ad commodo.\r\n",
+    "email": "karenochoa@kongle.com",
+    "registered": "2016-12-27T12:44:29 -06:-30"
+  },
+  {
+    "balance": "$2,440.90",
+    "firstName": "Washington",
+    "lastName": "Hubbard",
+    "gender": "male",
+    "age": 26,
+    "role": "CALCU",
+    "phone": "+1 (816) 566-3714",
+    "address": {
+      "street": "966 Tudor Terrace",
+      "city": "Soudan",
+      "state": "Maine",
+      "pin": 79916
+    },
+    "about": "Elit laborum tempor eu anim sunt exercitation ullamco dolore irure sint magna nulla velit ipsum. Eu ullamco excepteur ullamco incididunt in proident Lorem elit pariatur exercitation quis sint eu. Ex quis do aliqua duis labore irure ullamco non in amet. Fugiat exercitation anim amet deserunt consectetur. Culpa dolore quis ullamco elit sint sint tempor ipsum in cupidatat nostrud eiusmod. Sit incididunt mollit excepteur sunt aliquip laborum irure irure ullamco.\r\n",
+    "email": "washingtonhubbard@calcu.com",
+    "registered": "2016-01-18T04:53:39 -06:-30"
+  },
+  {
+    "balance": "$2,979.42",
+    "firstName": "Jerri",
+    "lastName": "Ashley",
+    "gender": "female",
+    "age": 22,
+    "role": "ZENCO",
+    "phone": "+1 (965) 550-3541",
+    "address": {
+      "street": "512 Pooles Lane",
+      "city": "Thatcher",
+      "state": "Kentucky",
+      "pin": 226798
+    },
+    "about": "Veniam elit in sint nulla fugiat ut velit ea exercitation ex reprehenderit esse. Fugiat reprehenderit id pariatur ut ex nulla in ipsum amet anim exercitation. Aute exercitation irure occaecat sint cupidatat eiusmod. Nisi quis veniam labore incididunt excepteur commodo velit fugiat adipisicing. Ipsum do reprehenderit nostrud aute sint dolor fugiat fugiat aliquip laboris excepteur qui. Consectetur fugiat nostrud enim qui sint id amet veniam nulla ad. Fugiat culpa laboris do amet nisi aliquip reprehenderit fugiat anim.\r\n",
+    "email": "jerriashley@zenco.com",
+    "registered": "2016-11-11T10:39:32 -06:-30"
+  },
+  {
+    "balance": "$2,892.49",
+    "firstName": "Katrina",
+    "lastName": "Bartlett",
+    "gender": "female",
+    "age": 40,
+    "role": "QUAREX",
+    "phone": "+1 (829) 546-2689",
+    "address": {
+      "street": "327 Stillwell Avenue",
+      "city": "Marenisco",
+      "state": "Oklahoma",
+      "pin": 371133
+    },
+    "about": "Ullamco ex ex sunt ut incididunt eu mollit anim labore ea commodo officia. Ut culpa duis magna sit ipsum incididunt fugiat duis deserunt commodo et sint laborum sit. Nisi exercitation pariatur consectetur commodo esse cillum eu id laborum excepteur ullamco.\r\n",
+    "email": "katrinabartlett@quarex.com",
+    "registered": "2018-01-30T01:09:06 -06:-30"
+  }
+]
